@@ -1,3 +1,14 @@
 {
-  "cSpell.words": ["edendattox"]
+  "cSpell.words": [
+    "clusterip",
+    "depl",
+    "edendattox",
+    "kubectl",
+    "kubernetes",
+    "ngnix",
+    "skaffold"
+  ],
+  "vs-kubernetes": {
+    "disable-linters": ["resource-limits"]
+  }
 }

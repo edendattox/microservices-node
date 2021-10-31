@@ -12,7 +12,7 @@ export default function PostCreate() {
     e.preventDefault();
 
     if (title.length > 0) {
-      await axios.post("http://localhost:4000/posts", {
+      await axios.post("http://posts.com/posts/create", {
         title,
       });
     }
